@@ -1,0 +1,27 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Maven ###
+target/
+
+### Gradle ###
+.gradle/
+build/
+
+### Logs ###
+*.log
+
+### Java ###
+*.class
+
+### Env ###
+.env
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### VS Code ###
+.vscode/
